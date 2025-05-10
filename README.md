@@ -39,8 +39,9 @@ Este sistema utiliza redes neuronales artificiales entrenadas con grandes volúm
 |----------------------------|----------------------------------|-----------------------------------------|
 | Precisión del diagnóstico.   | poca presision.                            | Alta precicion.                       |
 | Tiempo de respuesta.           |  Lento.| rapido.                         |
-| Consistencia de respuestas. | Variable.                         | Respuestas rápidas y listadas.                  |
-| Adaptabilidad.              | Limitada.                         | Excelente adaptabilidad.     |
+| Acecibilidad. | Escases en regiones lejanas.                         | diagnostico con zonas con menos doctores.                  |
+| Capacidad de aprendisaje.              | Limitada.                         | Aprende y mejora con nuevos datos .     |
+| deteccion teprana de enfermedades     | tarda demasiado hasta que ´presente sintomas   | detecta con patrones una prediccion temprana 
 
 ## 5. Reflexión Personal
 
